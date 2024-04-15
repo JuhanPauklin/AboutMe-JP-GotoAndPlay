@@ -1,4 +1,4 @@
-# About me website
+# "About Me" veebileht
 See on lihtne veebisait, loodud GotoAndPlay praktikale kandideerimise jaoks.  
 Tegin selle kasutades keskonda Webflow tasuta versiooni.  
 
